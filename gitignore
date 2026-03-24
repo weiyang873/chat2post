@@ -1,0 +1,18 @@
+# User data (created at runtime, stays local)
+.content-copilot/
+profile.json
+drafts/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (if scripts are added later)
+node_modules/
+package-lock.json
